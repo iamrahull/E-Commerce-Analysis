@@ -14,3 +14,5 @@ Dataset of E-Commerce Company named “Olist Store”. The dataset has informati
 ![Avg no of days](https://github.com/iamrahull/E-Commerce-Analysis/blob/main/Analysis%20ScreenShots/avg%20no%20of%20days%20btw%20order%20and%20delivery.jpg?raw=true)
 
 ![Seller Portfolio](https://github.com/iamrahull/E-Commerce-Analysis/blob/main/Analysis%20ScreenShots/seller%20porfolio.jpg?raw=true)
+
+## 👉<a name="LiveView" href="https://public.tableau.com/profile/rahulkumar101#!/vizhome/main3/Story1"> Click Here to view the hosted project</a>👈
