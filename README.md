@@ -1,2 +1,2 @@
 # 👉<a name="hostedLink" href="https://public.tableau.com/profile/rahulkumar101#!/vizhome/main3/Story1">E-Commerce-Analysis</a>
-Analysis of a E-Commerce Dataset.
+Dataset of E-Commerce Company named “Olist Store”. The dataset has information of more 100k orders from 2016 to 2018. Its features allow viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes.
